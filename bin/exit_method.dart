@@ -1,0 +1,3 @@
+bool exitMethod(){
+  return true;
+}
